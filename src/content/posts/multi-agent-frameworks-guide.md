@@ -1,7 +1,7 @@
 ---
-title: 多智能体（Multi-Agent）开发框架深度指南
+title: 多智能体（Multi-Agent）开发框架
 published: 2026-05-29
-description: '本指南系统性地总结并对比了当今 AI 智能体行业最顶级的四个多智能体编排框架：**CAMEL**、**AutoGen**、**AgentScope** 与 **LangGraph**。从设计哲学、核心机制、代码控制流以及工业落地选型等维度，为你提供全方位的架构师视角。'
+description: '系统性地总结并对比了当今 AI 智能体行业最顶级的四个多智能体编排框架：**CAMEL**、**AutoGen**、**AgentScope** 与 **LangGraph**。从设计哲学、核心机制、代码控制流以及工业落地选型等维度，为你提供全方位的架构师视角。'
 image: ''
 tags: []
 category: 'Multi-Agent'

@@ -1,7 +1,7 @@
 ---
-title: AI Agent 架构设计三大范式与混合架构深度指南
+title: AI Agent 架构设计三大范式与混合架构
 published: 2026-05-23
-description: '本指南系统性地总结了构建复杂大语言模型智能体（AI Agent）时的三大黄金底层架构范式，并详细阐述了如何在实际工业级场景（如代码生成、自动化客服）中进行多范式混合架构的设计与落地。'
+description: '系统性地总结了构建复杂大语言模型智能体（AI Agent）时的三大黄金底层架构范式，并详细阐述了如何在实际工业级场景（如代码生成、自动化客服）中进行多范式混合架构的设计与落地。'
 image: ''
 tags: ['ReAct', 'Plan And Solve', 'Reflection']
 category: ''
